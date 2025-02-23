@@ -42,15 +42,25 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
+ **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
+<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
+
+**Ensuring balanced and efficient learning process for fine-grained SGG.**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
 Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
-
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
-
 [![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/ZhuGeKongKong/SGG-G2S)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
@@ -64,9 +74,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 
 [Multi-Concept Learning for Scene Graph Generation](https://xinyulyu.github.io/) \\
 **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
-
 <a href="https://github.com/XinyuLyu/G-USGG"><strong>Code</strong></a>
-
 [![](https://img.shields.io/github/stars/XinyuLyu/G-USGG?style=social&label=Stars)](https://github.com/XinyuLyu/G-USGG)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
@@ -79,10 +87,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
-**Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen
-
-<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
-<!-- **Code**  -->
+**Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
 [![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -91,33 +96,15 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
- **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
- 
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
-
-**Ensuring balanced and efficient learning process for fine-grained SGG.**
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
-
 <a href="https://youtu.be/VKm-w_1gdec"><strong>Video</strong></a>
 \|
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
- <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
+<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:2osOgNQ5qMEC'></span></strong>
 
 **Aims at differentiating hard-to-distinguish predicates for fine-grained SGG.**
