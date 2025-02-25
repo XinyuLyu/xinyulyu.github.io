@@ -87,7 +87,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
-**Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+**Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
 [![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
