@@ -130,6 +130,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
+- `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [A Sentence-Semantic-Based Watermark for Large Language Models Against Paraphrasing Attacks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774832), Han Wang, Lei Zhao, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen.
