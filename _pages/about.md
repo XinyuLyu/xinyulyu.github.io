@@ -25,6 +25,8 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
+- *2025.06*: &nbsp; I was recognized as an outstanding reviewer (Top 5%) for CVPR 2025.
+- *2025.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
@@ -42,7 +44,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
@@ -55,7 +57,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
@@ -83,7 +85,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
@@ -97,7 +99,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
@@ -148,7 +150,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 # 🎖 Honors and Awards
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 - *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
-
+- *2025.06* Outstanding Reviewers for CVPR 2025
 
 # 📖 Educations
 - *2020.09* - 2024.06, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
