@@ -152,7 +152,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 # 🎖 Honors and Awards
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 - *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
-- *2025.06* Outstanding Reviewers for CVPR 2025.
+- *2025.06* Outstanding Reviewers for CVPR 2025.([Webpage](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 
 # 📖 Educations
 - *2020.09* - 2024.06, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
