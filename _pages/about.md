@@ -44,7 +44,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
@@ -57,7 +57,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
@@ -85,7 +85,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
@@ -99,7 +99,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
@@ -132,6 +132,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
+- `Arxiv 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu**, Shuailong Wang, Jingkuan Song, Lianli Gao.
+- `Arxiv 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
