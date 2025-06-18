@@ -26,6 +26,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
 - *2025.06*: &nbsp; I was recognized as an outstanding reviewer (Top 5%) for CVPR 2025.
+- *2025.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
