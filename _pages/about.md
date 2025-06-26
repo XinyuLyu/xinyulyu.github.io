@@ -30,7 +30,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
-- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
+<!--- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).
@@ -39,7 +39,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 - *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022).
 - *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021).
 - *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
-- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019).
+- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019). -->
 
 
 # 📝 Selected Publications 
