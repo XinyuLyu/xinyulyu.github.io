@@ -30,16 +30,17 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
-<!--- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
-- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-- *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).
-- *2022.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2022).
-- *2022.07*: &nbsp; Two papers were accepted by IEEE International Conference on Multimedia and Expo (ICME 2022).
-- *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022).
-- *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021).
-- *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
-- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019). -->
+  
+<!--- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023). -->
+<!--- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023). -->
+<!--- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023). -->
+<!--- *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023). -->
+<!--- *2022.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2022). -->
+<!--- *2022.07*: &nbsp; Two papers were accepted by IEEE International Conference on Multimedia and Expo (ICME 2022). -->
+<!--- *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022). -->
+<!--- *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021). -->
+<!--- *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021). -->
+<!--- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019). -->
 
 
 # 📝 Selected Publications 
@@ -132,20 +133,23 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
-- `Arxiv 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu**, Shuailong Wang, Jingkuan Song, Lianli Gao.
-- `Arxiv 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
-- `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
+(†: equal contribution, *: corresponding author, ♡: Project Leader)
+
+- `Arxiv 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu♡**, Shuailong Wang, Jingkuan Song, Lianli Gao.
+- `Arxiv 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu♡**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
+- `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu♡**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
-- `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
+- `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu♡**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [A Sentence-Semantic-Based Watermark for Large Language Models Against Paraphrasing Attacks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774832), Han Wang, Lei Zhao, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen.
-- `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkuan Song.
+- `ISAIR 2013` [Local-global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274), **Xinyu Lyu\***, Jingwei Liu, Yuyu Guo.
+- `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng, **Xinyu Lyu†**, Lianli Gao, Bo Dai, Jingkuan Song.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
 - `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
 - `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
 - `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song.
 - `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song.
-- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao.
+- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **♡Xinyu Lyu**, Jingkuan Song, Lianli Gao.
 - `ACM MM 2019`  (**oral**) [Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic.
 <!-- under review -->
 
