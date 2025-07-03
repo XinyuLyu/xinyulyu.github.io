@@ -154,15 +154,21 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
-- *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
 - *2025.06* Outstanding Reviewers for CVPR 2025.([Webpage](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
+- *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
+- *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 # 📖 Educations
 - *2020.09* - 2024.06, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
 - *2017.09* - 2019.06, Master student, Rutgers University, New Jersey. 
 - *2014.09* - 2018.06, Undergraduate, University of Electronic Science and Technology of China, Chengdu.
 
+# 📚 Course Teaching
+- *Graduate*: Multimodal Large Models (Semester 1, 2025-2026);
+              Principles and Practice of Multimodal Large Models (Semester 1, 2025-2026);
+              Frontiers in Multimodal Large Models (Semester 2, 2025-2026).
+
+- *Undergraduate*: Artificial Intelligence and Modern Technology (Semester 1-2, 2024-2026).
 
 
 # 💬 Invited Talks
