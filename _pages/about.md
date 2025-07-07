@@ -165,19 +165,12 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - *Undergraduate*: Artificial Intelligence and Modern Technology (Semesters 1–2, 2024–2026)
 
 
-# 💬 Invited Talks
-- *2023.05*, 2023 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://wx.vzan.com/live/page/1981937113?v=638188997043420940)) 
-- *2022.05*, 2022 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://live.bilibili.com/24970653))
-- *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Guiyang, Guizhou.
-- *2019.10*, 2019 ACM MM (Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition), Nice, France.
-
-
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, etc.
-- **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ACM MM, AAAI, EMNLP, ICPR, ICME, etc.
+- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, ACM TOMM, etc.
+- **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM, AAAI, EMNLP, ICME, etc.
 <!-- - Conference Reviewer: of CVPR 2023/2024, NeurIPS 2022/2023, ACM MM 2021/2023, ICCV 2023, AAAI 2020/2024, EMNLP 2024, ICPR2020. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 - **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
