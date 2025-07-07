@@ -20,7 +20,7 @@ redirect_from:
 <!-- Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/) and Prof.[Jingkuan Song](https://jingkuansong.github.io/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.   -->
 Hi, my name is Xinyu Lyu (吕新昱). I’m an Associate Professor in School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics. Before that, I obtained my Ph.D. degree from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). 
 
-My research interests mainly focus are Multimedia Learning and AI Safety, icluding Hallucination Mitigation, Safety Defense, and Jailbreak in Mutli-modal Large Lanuage Model.
+My research interests mainly focus are Multimedia Learning and AI Safety, icluding Hallucination Mitigation, Jailbreak Defense, Reasoning Vulnerabilities and Spatial Intelligence of Mutli-modal Large Lanuage Model.
 
 
 # 🔥 News
