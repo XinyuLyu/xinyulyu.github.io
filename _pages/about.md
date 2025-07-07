@@ -159,11 +159,10 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 # 📚 Course Teaching
-- *Graduate*: Multimodal Large Models (Semester 1, 2025-2026);
-              Principles and Practice of Multimodal Large Models (Semester 1, 2025-2026);
-              Frontiers in Multimodal Large Models (Semester 2, 2025-2026).
-
-- *Undergraduate*: Artificial Intelligence and Modern Technology (Semester 1-2, 2024-2026).
+- *Graduate*: Multimodal Large Models (Semester 1, 2025–2026)
+- *Graduate*: Principles and Practice of Multimodal Large Models (Semester 1, 2025–2026)
+- *Graduate*: Frontiers in Multimodal Large Models (Semester 2, 2025–2026)
+- *Undergraduate*: Artificial Intelligence and Modern Technology (Semesters 1–2, 2024–2026)
 
 
 # 💬 Invited Talks
@@ -184,6 +183,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
 
 # 💻 Main Projects
+- *2025.07 - 2027.07*, Teaching Practice Research on an Inclusive Finance Risk-Control Dialogue System Driven by Multimodal Large-Scale Models, Sichuan Provincial Department of Education Innovative Experimental Project of Undergraduate, **Project Leader**.
 - *2025.01 - 2026.12*, Research on Visual Relationship Detection Algorithms and Applications in Open World Settings, Sichuan Provincial Natural Science Foundation Project (No. 2025ZNSFSC1463), **Project Leader**.
 - *2023.02 - 2024.06*, 2030 Science and Technology Innovation Major Project for Next-Generation Artificial Intelligence by the Ministry of Science and Technology, National Key Research and Development Program of China (No. 2018AAA0102200), **Main Researcher**.
 - *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Participant**.
