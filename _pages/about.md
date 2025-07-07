@@ -173,7 +173,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM, AAAI, EMNLP, ICME, etc.
 <!-- - Conference Reviewer: of CVPR 2023/2024, NeurIPS 2022/2023, ACM MM 2021/2023, ICCV 2023, AAAI 2020/2024, EMNLP 2024, ICPR2020. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
-- **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
+- **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022/2023.
+<!--  ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .-->
 
 # 💻 Main Projects
 - *2025.07 - 2027.07*, Teaching Practice Research on an Inclusive Finance Risk-Control Dialogue System Driven by Multimodal Large-Scale Models, Sichuan Provincial Department of Education Innovative Experimental Project of Undergraduate, **Project Leader**.
