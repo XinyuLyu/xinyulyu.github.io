@@ -137,7 +137,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
-(†: equal contribution, *: corresponding author, ✧: Project Leader)
+(†: Equal Contribution, *: Corresponding Author, ✧: Project Leader)
 
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
