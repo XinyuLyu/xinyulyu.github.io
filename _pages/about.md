@@ -63,7 +63,6 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
 Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
-<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
 **Making balanced and informative predicate prediction for unbiased SGG.**
