@@ -139,8 +139,6 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 -->
 (†: equal contribution, *: corresponding author, ✧: Project Leader)
 
-- `NeurIPS 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu†✧**, Shuailong Wang, Jingkuan Song, Lianli Gao.
-- `NeurIPS 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu†✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song.
