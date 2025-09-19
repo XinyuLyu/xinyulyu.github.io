@@ -20,16 +20,17 @@ redirect_from:
 <!-- Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/) and Prof.[Jingkuan Song](https://jingkuansong.github.io/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.   -->
 Hi, my name is Xinyu Lyu (吕新昱). I’m an Associate Professor in School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics. Before that, I obtained my Ph.D. degree from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). 
 
-My research interests mainly focus are Multimedia Learning and AI Safety, icluding Hallucination Mitigation, Jailbreak Defense, Reasoning Vulnerabilities and Spatial Intelligence of Mutli-modal Large Lanuage Model.
+My research interests mainly focus are Multimedia Learning and AI Safety, icluding Hallucination Mitigation, Risk Detection and Jailbreak Defense of MLLMs.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
+- *2025.09*: &nbsp; Two papers were accepted by Conference on Neural Information Processing Systems (NeurIPS 2025).
 - *2025.06*: &nbsp; I was recognized as an outstanding reviewer (Top 5%) for CVPR 2025.
 - *2025.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2025).
-- *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
+<!-- *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).  -->
   
 <!--- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023). -->
 <!--- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023). -->
@@ -45,12 +46,11 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023 & CVPR 2022</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Ensuring balanced and efficient learning process for fine-grained SGG.**
@@ -64,7 +64,6 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
 Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
-[![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/ZhuGeKongKong/SGG-G2S)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
 **Making balanced and informative predicate prediction for unbiased SGG.**
@@ -77,7 +76,6 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 
 [Multi-Concept Learning for Scene Graph Generation](https://xinyulyu.github.io/) \\
 **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
-<a href="https://github.com/XinyuLyu/G-USGG"><strong>Code</strong></a>
 [![](https://img.shields.io/github/stars/XinyuLyu/G-USGG?style=social&label=Stars)](https://github.com/XinyuLyu/G-USGG)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
@@ -91,7 +89,6 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
 **Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
-[![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Alleviating Hallucinations in LVLMs via Weak-to-Strong Generalization.**
@@ -99,21 +96,30 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/safeptr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://xinyulyu.github.io/) \\
+Beitao Chen, **Xinyu Lyu\*(Equal Contribution)**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
-[Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
- **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
-<a href="https://youtu.be/VKm-w_1gdec"><strong>Video</strong></a>
-\|
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:2osOgNQ5qMEC'></span></strong>
-
-**Aims at differentiating hard-to-distinguish predicates for fine-grained SGG.**
+**Defending Multi-modal Jailbreak via Token-level Prune-Restore.**
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/flexac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**FlexAC : Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models.**](https://xinyulyu.github.io/) \\
+Shengming Yuan, **Xinyu Lyu\*(Equal Contribution)**, Shuailong Wang, Jingkuan Song, Beitao Chen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
+
+**Enabling Controllable Associative Reasoning in MLLMs.**
+
+</div>
+</div>
+
 
 <!---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
@@ -135,8 +141,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 -->
 (†: equal contribution, *: corresponding author, ✧: Project Leader)
 
-- `Arxiv 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu✧**, Shuailong Wang, Jingkuan Song, Lianli Gao.
-- `Arxiv 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
+- `NeurIPS 2025` [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://xinyulyu.github.io/), Shengming Yuan, **Xinyu Lyu†✧**, Shuailong Wang, Jingkuan Song, Lianli Gao.
+- `NeurIPS 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://xinyulyu.github.io/), Beitao Chen, **Xinyu Lyu†✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen, Lianli Gao.
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song.
