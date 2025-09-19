@@ -161,9 +161,9 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 # 📚 Course Teaching
-- *Graduate*: Multimodal Large Models (Semester 1, 2025–2026)
-- *Graduate*: Principles and Practice of Multimodal Large Models (Semester 1, 2025–2026)
-- *Graduate*: Frontiers in Multimodal Large Models (Semester 2, 2025–2026)
+- *Graduate MS*: Multimodal Large Models (Semester 1, 2025–2026)
+- *Graduate MS*: Principles and Practice of Multimodal Large Models (Semester 1, 2025–2026)
+- *Graduate PhD*: Frontiers in Multimodal Large Models (Semester 2, 2025–2026)
 - *Undergraduate*: Artificial Intelligence and Modern Technology (Semesters 1–2, 2024–2026)
 
 
@@ -184,8 +184,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - *2023.02 - 2024.06*, 2030 Science and Technology Innovation Major Project for Next-Generation Artificial Intelligence by the Ministry of Science and Technology, National Key Research and Development Program of China (No. 2018AAA0102200), **Main Researcher**.
 - *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Participant**.
 - *2020.01 - 2022.07*, Research on Scene Graph Generation for E-commerce Live Streaming/Video, Kuaishou (No. 202109FKY00302), **Main Researcher**.
-- *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**.
-- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.
+<!--- *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**. -->
+<!-- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**. -->
 
   <a href="https://www.easycounter.com/">
   <img src="https://www.easycounter.com/counter.php?xinyulyu"
