@@ -94,17 +94,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/safeptr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://xinyulyu.github.io/) \\
-Beitao Chen, **Xinyu Lyu\*(Equal Contribution)**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
-**Defending Multi-modal Jailbreak via Token-level Prune-Restore.**
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/flexac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -120,6 +110,18 @@ Shengming Yuan, **Xinyu Lyu\*(Equal Contribution)**, Shuailong Wang, Jingkuan So
 
 
 <!---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/safeptr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://xinyulyu.github.io/) \\
+Beitao Chen, **Xinyu Lyu\*(Equal Contribution)**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
+
+**Defending Multi-modal Jailbreak via Token-level Prune-Restore.**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -138,7 +140,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div> 
 -->
 (†: Equal Contribution, *: Corresponding Author, ✧: Project Leader)
-
+- `NeurIPS 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://arxiv.org/pdf/2507.01513), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song.
