@@ -50,7 +50,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\ 
- **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
+**Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Ensuring balanced and efficient learning process for fine-grained SGG.**
@@ -144,7 +144,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song.
-- `ISAIR 2013` [Local-global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274), **Xinyu Lyu\***, Jingwei Liu, Yuyu Guo.
+- `ISAIR 2023` [Local-global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274), **Xinyu Lyu\***, Jingwei Liu, Yuyu Guo.
 - `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng, **Xinyu Lyu†**, Lianli Gao, Bo Dai, Jingkuan Song.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
