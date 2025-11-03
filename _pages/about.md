@@ -51,6 +51,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 <div class='paper-box-text' markdown="1">
 
 [**Adaptive Fine-Grained Predicates Learning for Scene Graph Generation.**](https://arxiv.org/pdf/2207.04602.pdf) \\ 
+
 **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
