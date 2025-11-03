@@ -47,7 +47,6 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 # 📝 Selected Publications 
 
 (*: Equal Contribution, †: Corresponding Author, ✧: Project Leader)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023 & CVPR 2022</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
