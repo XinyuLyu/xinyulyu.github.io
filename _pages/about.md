@@ -51,7 +51,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023 & CVPR 2022</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\ 
+[**Adaptive Fine-Grained Predicates Learning for Scene Graph Generation.**](https://arxiv.org/pdf/2207.04602.pdf) \\ 
 **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -63,7 +63,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
+[**Informative Scene Graph Generation via Debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
 Lianli Gao, **Xinyu Lyu†**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong> 
 
@@ -75,7 +75,7 @@ Lianli Gao, **Xinyu Lyu†**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/tip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Concept Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10909340) \\
+[**Multi-Concept Learning for Scene Graph Generation.**](https://ieeexplore.ieee.org/document/10909340) \\
 **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen <a href="https://github.com/XinyuLyu/G-USGG"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
@@ -101,8 +101,8 @@ Lianli Gao, **Xinyu Lyu†**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/flexac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[**FlexAC : Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models.**](https://xinyulyu.github.io/) \\
-Shengming Yuan, **Xinyu Lyu\***, Shuailong Wang, Jingkuan Song, Beitao Chen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+[**FlexAC : Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models.**](https://openreview.net/pdf?id=RbGUML7YK6) \\
+Shengming Yuan, **Xinyu Lyu\***, Shuailong Wang, Jingkuan Song, Beitao Chen and Lianli Gao <a href="https://github.com/ylhz/FlexAC"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Enabling Controllable Associative Reasoning in MLLMs.**
@@ -114,8 +114,8 @@ Shengming Yuan, **Xinyu Lyu\***, Shuailong Wang, Jingkuan Song, Beitao Chen and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/safeptr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://xinyulyu.github.io/) \\
-Beitao Chen, **Xinyu Lyu✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://openreview.net/pdf?id=MNSiBGNAvx) \\
+Beitao Chen, **Xinyu Lyu✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://github.com/BT-C/SafePTR"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Defending Multi-modal Jailbreak via Token-level Prune-Restore.**
