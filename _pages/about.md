@@ -46,6 +46,8 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 📝 Selected Publications 
 
+(*: Equal Contribution, †: Corresponding Author, ✧: Project Leader)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023 & CVPR 2022</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +64,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
-Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
+Lianli Gao, **Xinyu Lyu†**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 **Making balanced and informative predicate prediction for unbiased SGG.**
@@ -86,7 +88,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
-**Xinyu Lyu***, Beitao Chen\*(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+**Xinyu Lyu**, Beitao Chen, Lianli Gao, Jingkuan Song and Heng Tao Shen <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Alleviating Hallucinations in LVLMs via Weak-to-Strong Generalization.**
@@ -100,7 +102,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 <div class='paper-box-text' markdown="1">
   
 [**FlexAC : Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models.**](https://xinyulyu.github.io/) \\
-Shengming Yuan, **Xinyu Lyu\*(Equal Contribution)**, Shuailong Wang, Jingkuan Song, Beitao Chen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+Shengming Yuan, **Xinyu Lyu\***, Shuailong Wang, Jingkuan Song, Beitao Chen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Enabling Controllable Associative Reasoning in MLLMs.**
@@ -109,18 +111,19 @@ Shengming Yuan, **Xinyu Lyu\*(Equal Contribution)**, Shuailong Wang, Jingkuan So
 </div>
 
 
-<!---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/safeptr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://xinyulyu.github.io/) \\
-Beitao Chen, **Xinyu Lyu\*(Equal Contribution)**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+Beitao Chen, **Xinyu Lyu✧**, Shengming Yuan, Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Defending Multi-modal Jailbreak via Token-level Prune-Restore.**
 
 </div>
 </div>
+
+<!---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,13 +142,12 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
-(†: Equal Contribution, *: Corresponding Author, ✧: Project Leader)
 - `NeurIPS 2025` [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://arxiv.org/pdf/2507.01513), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `Arxiv 2025` [Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](https://arxiv.org/pdf/2503.08216), Beitao Chen, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu✧**, Lianli Gao, Jingkuan Song.
-- `ISAIR 2023` [Local-global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274), **Xinyu Lyu\***, Jingwei Liu, Yuyu Guo.
-- `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng, **Xinyu Lyu†**, Lianli Gao, Bo Dai, Jingkuan Song.
+- `ISAIR 2023` [Local-global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274), **Xinyu Lyu†**, Jingwei Liu, Yuyu Guo.
+- `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng, **Xinyu Lyu\***, Lianli Gao, Bo Dai, Jingkuan Song.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
 - `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
