@@ -161,8 +161,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2025.12* Gold Award, The 6th National College Student Algorithm Design and Programming Challenge
-- *2025.11* Gold Award, AI for Science Track, The 2nd Global Digital Intelligence Education Innovation Competition
+- *2025.12* Gold Award, The 6th National College Student Algorithm Design and Programming Challenge. ([Webpage](https://new.saikr.com/vse/adpc/2025/spring?type=notice&id=31309))
+- *2025.11* Gold Award, AI for Science Track, The 2nd Global Digital Intelligence Education Innovation Competition. ([Webpage](https://www.bohrium.com/en/competitions/5955898227?tab=leaderboard))
 - *2025.06* Outstanding Reviewers for CVPR 2025.([Webpage](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
