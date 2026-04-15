@@ -25,6 +25,8 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
+- *2025.12*: &nbsp; Gold Award in the AI for Science Track of the 2nd Global Digital Intelligence Education Innovation Competition.
+- *2025.11*: &nbsp; Gold Award in the 6th National College Student Algorithm Design and Programming Challenge.
 - *2025.09*: &nbsp; Two papers were accepted by Conference on Neural Information Processing Systems (NeurIPS 2025).
 - *2025.06*: &nbsp; I was recognized as an outstanding reviewer (Top 5%) for CVPR 2025.
 - *2025.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
@@ -159,6 +161,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <!-- under review -->
 
 # 🎖 Honors and Awards
+- *2025.12* Gold Award, The 6th National College Student Algorithm Design and Programming Challenge
+- *2025.11* Gold Award, AI for Science Track, The 2nd Global Digital Intelligence Education Innovation Competition
 - *2025.06* Outstanding Reviewers for CVPR 2025.([Webpage](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.htm))
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
