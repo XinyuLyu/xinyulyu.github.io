@@ -20,18 +20,18 @@ redirect_from:
 <!-- Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/) and Prof.[Jingkuan Song](https://jingkuansong.github.io/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.   -->
 Hi, my name is Xinyu Lyu (吕新昱). I’m an Associate Professor in School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics. Before that, I obtained my Ph.D. degree from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/), Prof.[Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). 
 
-My research interests mainly focus are Multimedia Learning and AI Safety, icluding Hallucination Mitigation, Risk Detection and Jailbreak Defense of MLLMs.
+My research interests mainly focus are Multimedia Learning and AI Safety, icluding MLLM Jailbreak Defense, Agent Security and Hallucination Mitigation.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
 - *2025.12*: &nbsp; Gold Award in AI for Science Track of 2nd Global Digital Intelligence Education Innovation Competition.
 - *2025.11*: &nbsp; Gold Award in 6th National College Student Algorithm Design and Programming Challenge.
-- *2025.09*: &nbsp; Two papers about MLLM Safety were accepted by Conference on Neural Information Processing Systems (NeurIPS 2025).
+- *2025.09*: &nbsp; Two papers about MLLM Jailbreak Defense and Hallucination Mitigation were accepted by NeurIPS 2025.
 - *2025.06*: &nbsp; I was recognized as an outstanding reviewer (Top 5%) for CVPR 2025.
-- *2025.05*: &nbsp; One paper about Scene Graph Generation was accepted by IEEE Transactions on Image Processing (TIP 2025).
-- *2025.02*: &nbsp; One paper about Text-Video Retrieval was accepted by IEEE Transactions on Image Processing (TIP 2025).
-- *2025.01*: &nbsp; One paper about Scene Graph Generation was accepted by International Journal of Computer Vision (IJCV 2025).
+- *2025.05*: &nbsp; One paper about Scene Graph Generation was accepted by TIP 2025.
+- *2025.02*: &nbsp; One paper about Text-Video Retrieval was accepted by TIP 2025.
+- *2025.01*: &nbsp; One paper about Scene Graph Generation was accepted by IJCV 2025.
 <!-- *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).  -->
   
 <!--- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023). -->
