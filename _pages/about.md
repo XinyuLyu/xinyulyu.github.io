@@ -25,6 +25,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
+- *2026.04*: &nbsp; One paper about Jailbreak Defense was accepted by ICML 2026.
 - *2025.12*: &nbsp; Gold Award in AI for Science Track of 2nd Global Digital Intelligence Education Innovation Competition.
 - *2025.11*: &nbsp; Gold Award in 6th National College Student Algorithm Design and Programming Challenge.
 - *2025.09*: &nbsp; Two papers about MLLM Jailbreak Defense and Hallucination Mitigation were accepted by NeurIPS 2025.
