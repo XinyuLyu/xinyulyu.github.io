@@ -1,1 +1,400 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Papers & Code</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0f14;
+    --surface: #151921;
+    --surface2: #1c2230;
+    --border: #2a3040;
+    --text: #e2e6ee;
+    --text-dim: #8892a4;
+    --accent-red: #ef4444;
+    --accent-green: #22c55e;
+    --accent-blue: #3b82f6;
+    --accent-amber: #f59e0b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 56px;
+    position: relative;
+  }
+
+  .header::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent-red), var(--accent-blue));
+    margin: 24px auto 0;
+    border-radius: 2px;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
+
+  .header p {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+  }
+
+  .header a {
+    color: var(--accent-blue);
+    text-decoration: none;
+  }
+
+  /* Section */
+  .section {
+    margin-bottom: 48px;
+  }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .dot-red { background: var(--accent-red); }
+  .dot-green { background: var(--accent-green); }
+  .dot-blue { background: var(--accent-blue); }
+
+  /* Paper card */
+  .paper {
+    display: grid;
+    grid-template-columns: 36px 1fr auto;
+    align-items: start;
+    gap: 16px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+  }
+
+  .paper:last-child { border-bottom: none; }
+
+  .paper-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--text-dim);
+    background: var(--surface2);
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+
+  .paper-info { min-width: 0; }
+
+  .paper-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.45;
+    margin-bottom: 4px;
+  }
+
+  .paper-venue {
+    font-size: 0.8rem;
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--text-dim);
+  }
+
+  .paper-link {
+    flex-shrink: 0;
+    align-self: center;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 14px;
+    border-radius: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .btn-code {
+    background: var(--surface2);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+
+  .btn-code:hover {
+    background: var(--accent-blue);
+    border-color: var(--accent-blue);
+    color: #fff;
+  }
+
+  .btn-soon {
+    background: transparent;
+    color: var(--text-dim);
+    border: 1px dashed var(--border);
+    cursor: default;
+  }
+
+  .btn svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    color: var(--text-dim);
+    font-size: 0.85rem;
+  }
+
+  .footer a { color: var(--accent-blue); text-decoration: none; }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .paper {
+      grid-template-columns: 32px 1fr;
+      gap: 10px;
+    }
+    .paper-link {
+      grid-column: 2;
+    }
+    .header h1 { font-size: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <div class="header">
+    <h1>📚 Papers & Code</h1>
+    <p>Adversarial Attack · Hallucination Mitigation · AI Safety<br>
+    <a href="https://xinyulyu.github.io/" target="_blank">Xinyu Lyu</a> &nbsp;|&nbsp; UESTC · Center for Future Media</p>
+  </div>
+
+  <!-- Adversarial Attack -->
+  <div class="section">
+    <div class="section-title">
+      <span class="dot dot-red"></span>
+      Adversarial Attack & Robustness
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">01</div>
+      <div class="paper-info">
+        <div class="paper-title">Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack</div>
+        <div class="paper-venue">CVPR 2022</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/liuye6666/adaptive_auto_attack" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">02</div>
+      <div class="paper-info">
+        <div class="paper-title">Patch-wise Attack for Fooling Deep Neural Network</div>
+        <div class="paper-venue">ECCV 2020</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/qilong-zhang/Patch-wise-iterative-attack" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">03</div>
+      <div class="paper-info">
+        <div class="paper-title">Natural Color Fool: Towards Boosting Black-box Unrestricted Attacks</div>
+        <div class="paper-venue">NeurIPS 2022</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/VL-Group/Natural-Color-Fool" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">04</div>
+      <div class="paper-info">
+        <div class="paper-title">Frequency Domain Model Augmentation for Adversarial Attack</div>
+        <div class="paper-venue">ECCV 2022 · Oral</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/yuyang-long/SSA" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">05</div>
+      <div class="paper-info">
+        <div class="paper-title">Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains</div>
+        <div class="paper-venue">ICLR 2022</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">06</div>
+      <div class="paper-info">
+        <div class="paper-title">Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection</div>
+        <div class="paper-venue">ECCV 2024</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/VL-Group/GAKer" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hallucination Mitigation -->
+  <div class="section">
+    <div class="section-title">
+      <span class="dot dot-green"></span>
+      Hallucination Mitigation
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">07</div>
+      <div class="paper-info">
+        <div class="paper-title">Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization</div>
+        <div class="paper-venue">NeurIPS 2024</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/BT-C/HIO" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">08</div>
+      <div class="paper-info">
+        <div class="paper-title">Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation</div>
+        <div class="paper-venue">Arxiv 2025</div>
+      </div>
+      <div class="paper-link">
+        <span class="btn btn-soon">Coming Soon</span>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">11</div>
+      <div class="paper-info">
+        <div class="paper-title">FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models</div>
+        <div class="paper-venue">NeurIPS 2025</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/ylhz/FlexAC" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI Safety -->
+  <div class="section">
+    <div class="section-title">
+      <span class="dot dot-blue"></span>
+      AI Safety · Jailbreak Defense
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">09</div>
+      <div class="paper-info">
+        <div class="paper-title">SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism</div>
+        <div class="paper-venue">NeurIPS 2025</div>
+      </div>
+      <div class="paper-link">
+        <a class="btn btn-code" href="https://github.com/BT-C/SafePTR" target="_blank">
+          <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          Code
+        </a>
+      </div>
+    </div>
+
+    <div class="paper">
+      <div class="paper-num">10</div>
+      <div class="paper-info">
+        <div class="paper-title">Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs</div>
+        <div class="paper-venue">ICML 2026</div>
+      </div>
+      <div class="paper-link">
+        <span class="btn btn-soon">Coming Soon</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>UESTC · Center for Future Media &nbsp;|&nbsp; <a href="https://xinyulyu.github.io/" target="_blank">Homepage</a> &nbsp;|&nbsp; <a href="https://github.com/XinyuLyu" target="_blank">GitHub</a></p>
+  </div>
+
+</div>
+
+</body>
+</html>
