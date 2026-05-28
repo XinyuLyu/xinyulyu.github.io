@@ -99,7 +99,17 @@ Lianli Gao, **Xinyu Lyu†**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/sap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs.**](https://xinyulyu.github.io/) \\
+Shuailong Wangm, **Xinyu Lyu†**, Shengming Yuan,  Jingkuan Song, Heng Tao Shen and Lianli Gao <a href="https://xinyulyu.github.io/"><strong>Code</strong></a>
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
+**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs.**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/flexac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
