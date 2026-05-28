@@ -178,11 +178,12 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 # 📚 Course Teaching
-- *Graduate MS*: Multimodal Large Models (Semester 1, 2025–2026)
+- *Graduate MS*: Multimodal Large Models (Semester 1, 2025–2026，)
 - *Graduate MS*: Principles and Practice of Multimodal Large Models (Semester 1, 2025–2026)
 - *Graduate PhD*: Frontiers in Multimodal Large Models (Semester 2, 2025–2026)
 - *Undergraduate*: Artificial Intelligence and Modern Technology (Semesters 1–2, 2024–2026)
 - *Undergraduate*: Data Visualization (Semesters 2, 2025–2026)
+- *Undergraduate*: Deep Learning (Semesters 1, 2026)
 
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
